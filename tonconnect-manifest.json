@@ -1,5 +1,5 @@
 {
-  "url": "https://github.com/fiezzy/for-manifest/blob/main/tonconnect-manifest.json",
+  "url": "http://localhost:3000",
   "name": "Launchpad FE",
   "iconUrl": "https://toncommunity.org/static/media/logo2.b155662f.png"
 }
